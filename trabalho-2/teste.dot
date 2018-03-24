@@ -1,0 +1,11 @@
+strict digraph oi
+{
+  C -> Y;
+  C -> Z;
+  B -> X;
+  B -> Y;
+  B -> Z;
+  A -> B;
+  A -> C;
+
+}
